@@ -2,6 +2,7 @@ dongho
 
 git rebase
 - c5
+- c6 
 
 this is main branch
 I'm the king of this repository.
